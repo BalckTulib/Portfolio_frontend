@@ -95,7 +95,7 @@ function Home() {
             data-aos-delay="100"
           >
             I'm <span className="font-weight-bold-white">Loubna</span>, student
-            <span className="font-weight-bold">programmer</span> currently working on a school{" "}
+            <span className="font-weight-bold"> programmer</span> currently working on a school{" "}
             <span className="font-weight-bold">project</span> .
 
           </p>
