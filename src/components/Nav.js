@@ -76,7 +76,7 @@ function Nav() {
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://github.com/BlackTulib"
+                    href="https://github.com/BalckTulib"
                   >
                     <i className="ion-social-github"></i>
                   </a>
